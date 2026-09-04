@@ -13,5 +13,5 @@ React · JavaScript · Node.js · Tailwind CSS · Supabase · Git  · Figma · F
 
 ### Interests
 
-💻 Development · 🎨 Design · 🤖 AI · 🚀 Side Projects
+Development · Design · AI · Side Projects
 
