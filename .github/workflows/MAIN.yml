@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
@@ -14,14 +14,14 @@ jobs:
 
     steps:
       - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: illucplice
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish Snake
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
