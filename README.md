@@ -1,5 +1,5 @@
 
-Hey there! 👋
+Hey there!
 
 I'm **illucplice** — a developer and graphic designer from Nepal.
 
