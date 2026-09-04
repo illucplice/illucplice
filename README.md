@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**illucplice/illucplice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! 👋
 
-Here are some ideas to get you started:
+I'm **illucplice** — a developer and graphic designer from Nepal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building web & mobile apps, designing interfaces, and experimenting with new technologies.
+
+**Currently:** Learning • Building • Designing • Exploring
+
+### Tech
+
+React · JavaScript · Node.js · Tailwind CSS · Supabase · Git  · Figma · Firebase · Flutter
+
+### Interests
+
+💻 Development · 🎨 Design · 🤖 AI · 🚀 Side Projects
+
